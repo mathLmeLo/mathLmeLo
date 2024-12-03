@@ -1,7 +1,7 @@
 # 💫 About Me:
 Computer Engineer<br>Currently Working as Mid Backend Engineer<br>Learning more about Data Science
 
-s
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mathlmelo) 
 
