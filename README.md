@@ -9,7 +9,7 @@ Software Engineer
 
 ### 🏗️ Backend Core & Frameworks
 * **Node.js Ecosystem:** TypeScript, JavaScript, Express, Fastify, NestJS
-* **Python Ecosystem:** Python, FastAPI, REST APIs
+* **Python Ecosystem:** Python, FastAPI
 
 ### ⚛️ Frontend Development & React Ecosystem
 * **Core Frameworks:** React, Next.js
