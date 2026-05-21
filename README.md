@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineer<br>Currently Working as Mid Backend Engineer<br>Learning more about Data Science
+Computer Engineer
 
 
 ## 🌐 Socials:
