@@ -11,6 +11,13 @@ Software Engineer
 * **Node.js Ecosystem:** TypeScript, JavaScript, Express, Fastify, NestJS
 * **Python Ecosystem:** Python, FastAPI, REST APIs
 
+### ⚛️ Frontend Development & React Ecosystem
+* **Core Frameworks:** React, Next.js
+* **State Management & Data Fetching:** Redux Toolkit, React Query (TanStack Query), Context API
+* **Styling & UI:** TailwindCSS, Styled Components, SASS
+* **Form Handling & Routing:** React Hook Form, React Router
+* **Build Tools & Environments:** Vite, Node.js, Package Managers (PNPM, NPM, Yarn)
+
 ### 🗄️ Database & State Management
 * **Relational & ORMs:** PostgreSQL, TypeORM, PrismaORM
 * **NoSQL, Graph & Caching:** MongoDB, Neo4j, Redis
@@ -24,17 +31,11 @@ Software Engineer
 ### 🔐 Security & AI Integration
 * **IAM & Auth:** Keycloak, Authentication & Authorization, RBAC (Role-Based Access Control)
 * **AI & LLMs:** LangChain, OpenAI API, RAG (Retrieval-Augmented Generation)
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mathlmelo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mathlmelo&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathlmelo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ⚛️ Frontend Development & React Ecosystem
-* **Core Frameworks:** React, Next.js
-* **State Management & Data Fetching:** Redux Toolkit, React Query (TanStack Query), Context API
-* **Styling & UI:** TailwindCSS, Styled Components, SASS
-* **Form Handling & Routing:** React Hook Form, React Router
-* **Build Tools & Environments:** Vite, Node.js, Package Managers (PNPM, NPM, Yarn)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
